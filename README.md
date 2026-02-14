@@ -1,4 +1,4 @@
-# Enitito-
+# Enitio-
 
 <img width="1280" height="1088" alt="image" src="https://github.com/user-attachments/assets/04aba886-438e-44f6-8de8-6f6f0c5ff093" />
 
@@ -12,3 +12,9 @@ The oled, functions to indicate to the user which hole they are to drop the meta
 Once the correct hole detect the metal balls dropping. It will send a signal to increase the point system. Wrong hole will deduct it.
 
 You can make the code like space teams with its multiplayer and master.
+
+
+**References**
+
+1. https://randomnerdtutorials.com/esp32-ssd1306-oled-display-arduino-ide/
+2. https://esp32io.com/tutorials/esp32-light-sensor
